@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "79b58ae8f6caa52ffdaef14eef8d6c61f5dcbec9ad941799240651a420383c65"
+build_start_time: [1668904475, 921350002]
+build_end_time: [1668904475, 942507028]
+inputs:
+  "/Users/moisescarpio/StudioProjects/goalkeeper/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1668904465, 526169300]
+  "/Users/moisescarpio/StudioProjects/goalkeeper/macos/Runner/AppDelegate.swift": !private [1668016546, 0]
+  "/Users/moisescarpio/StudioProjects/goalkeeper/macos/Runner/MainFlutterWindow.swift": !private [1668016546, 0]
