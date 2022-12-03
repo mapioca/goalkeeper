@@ -48,6 +48,8 @@ dependencies:
   floating_bottom_bar: ^0.0.1
   intl: ^0.17.0
   getwidget: ^3.0.1
+  input_slider: ^0.3.1
+  roundcheckbox: ^2.0.5
 
 dev_dependencies:
   flutter_test:

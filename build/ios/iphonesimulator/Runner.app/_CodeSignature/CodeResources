@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		atMc1HvT/vaVhUuOrDT98VEc9WQ=
+		foHnJG4ZuiS/koKt+s6Wpy7rveU=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		9h3gqoKp9BVVQdB3yiN1UPifON8=
+		tOl2ad8h2AuBc8t2i3efJ0rSNKo=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		Cn7tMTOMz+LYS3bFbeF93uuisSE=
+		y+s09FYRxncewdpw+OdrjIhBV8g=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		YjEBOq664axt8OKVV3O9Pq1Kn6Y=
+		ZgUT/WSMj0ddcdQRXgcJsdkXLhs=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -266,7 +266,7 @@
 		</data>
 		<key>Frameworks/MTBBarcodeScanner.framework/MTBBarcodeScanner</key>
 		<data>
-		auHoOGlk8mgL1B5LLah93ALpkZM=
+		jVZNoUXHqRTwJfXKhbDcC18Br0w=
 		</data>
 		<key>Frameworks/MTBBarcodeScanner.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>Frameworks/TOCropViewController.framework/TOCropViewController</key>
 		<data>
-		8RlMRE1JrB9bN98/SRPZPXetzkQ=
+		G/lejszAzjCmGxEPiLYRhf9ChUY=
 		</data>
 		<key>Frameworks/TOCropViewController.framework/TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
@@ -559,7 +559,7 @@
 		</data>
 		<key>Frameworks/image_cropper.framework/image_cropper</key>
 		<data>
-		8TpQ9dBJe/KJyhW0GAxKCdKB8EI=
+		O+gfLZE1EezrtQkZZDoNccs/JC4=
 		</data>
 		<key>Frameworks/image_picker_ios.framework/Info.plist</key>
 		<data>
@@ -571,7 +571,7 @@
 		</data>
 		<key>Frameworks/image_picker_ios.framework/image_picker_ios</key>
 		<data>
-		Q+aXjpAjlQFFsLIUGaYtmKKrHxA=
+		A/YKto5nwFZmHugGZWRZbVJxPkQ=
 		</data>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
 		<data>
@@ -583,7 +583,7 @@
 		</data>
 		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<data>
-		X4SObk2aVgOA/FG2gMm3bF6umFQ=
+		LMKB/TGSKoaNDafaNgtK1BzEVsE=
 		</data>
 		<key>Frameworks/qr_code_scanner.framework/Info.plist</key>
 		<data>
@@ -595,7 +595,7 @@
 		</data>
 		<key>Frameworks/qr_code_scanner.framework/qr_code_scanner</key>
 		<data>
-		3h/ItmJMChTLAMvTEZMlv6qELXM=
+		+i1hHDsKNnJZt2RLYRSbDaOcv/U=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -682,7 +682,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			huXd3j7P/tOkEvtV9KgE24di/Cjn6Qf8GxDZzCGryio=
+			RPnPBF2aqAHE9BGMjH8p1Jjl27ZqGTwBc4zWH6dCt/E=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -696,7 +696,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tGFD0DsyApjYrBoTBy9TOD5yitqs8Qkhqcm//ZSsTj4=
+			Jkp0BR0yDyAL9Iu+PTUmD2YutGEYkA2sBYYBruAzjcE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -738,7 +738,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J/b/PjBgMuNsN67skJkO4+cXD3vcOB0pznC7Pw5sfNQ=
+			Zxf+A8mJRV5S9srT0xa29AGQ4FPBd7V8W/VNuzMY83Q=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -913,7 +913,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TBTgQueDtQU41e7sn1KfGaiw1dJ7XBx2kIsQ7mHhEEs=
+			NyaIZAxee07FDE+wnF6pXF2TwNh4wb3jJp2t2VEgoKs=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -1067,7 +1067,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3WKq2ta7TjzHvYtHrLsOG+Afg8y6+nvQ98dlGuZjYI0=
+			2Sk0xC61He+7z0eJN3w50MHj4hSHQh7DKoYWKrnG/5s=
 			</data>
 		</dict>
 		<key>Frameworks/MTBBarcodeScanner.framework/_CodeSignature/CodeResources</key>
@@ -1088,7 +1088,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hiTNAzroD2t0CvdK9ZG9YdnolZUqXZFGaAV7ealCoVg=
+			Eg+P168H7ETi7PWMYHVptMEG5jqbTJzJ5AgwXyZxR7s=
 			</data>
 		</dict>
 		<key>Frameworks/TOCropViewController.framework/TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings</key>
@@ -1384,7 +1384,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0ELu6Krhjz2ERwDCnPnpwd98P9mH2RtyRs9/F4/fFI=
+			6/X0oZSRRet13fis1q8G3iDugniCBFJPFTfP2QE+IlU=
 			</data>
 		</dict>
 		<key>Frameworks/image_picker_ios.framework/Info.plist</key>
@@ -1405,7 +1405,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DXqz3KqXk8MeoZUc9ed+0LCCYuPBKkrMtQ9uBdQaBNA=
+			9AqsxywDvT9lDlrBSkIUOqhGT9j1kNuS6iJwnZ6qNkA=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
@@ -1426,7 +1426,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cpZeQHmTbsE/Q/SltyWCUz9BBjUDosMM0ptKGihIuFk=
+			7euSM+KVlE61W1tNg7/ajYk6x3OtCbPYqr+0rNudXdk=
 			</data>
 		</dict>
 		<key>Frameworks/qr_code_scanner.framework/Info.plist</key>
@@ -1447,7 +1447,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a03beJlX4XmfeaEw8nL5xHywpADQHUE0WwbnOFhZ1cU=
+			JiH9fInXTvDNrHoFko5x0UFxDIU+WfQWCyt3N2DQGbY=
 			</data>
 		</dict>
 	</dict>
